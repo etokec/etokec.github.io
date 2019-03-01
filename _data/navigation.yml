@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  # - title: "Projects"
+    # url: /_projects/portfolio-page/
+  - title: "Thoughts / Projects"
+    url: /year-archive/
+
+  
