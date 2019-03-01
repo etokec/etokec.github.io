@@ -1,3 +1,2 @@
 # etokec.github.io
-My personal website
-The blog is built on the [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) theme.
+My personal website usingthe [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) Jekyll theme.
